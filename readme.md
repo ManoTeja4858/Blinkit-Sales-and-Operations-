@@ -58,7 +58,7 @@ This project showcases a powerful **all-in-one dashboard** built for **Blinkit**
 ## Live Demo
 + [view Project on PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNWQ2ZDQ1OGMtNjRiZC00MTQxLWIzMmItM2QwYzQ4MzdiNTZjIiwidCI6IjlhMDQ2MGMyLTVhOGQtNDk1OS1iOWRmLWRjYzc4Mjk3ZGE2YyJ9)
 
-![Project Screenshot](https://github.com/ManoTeja4858/Blinkit-Sales-and-Operations-/blob/main/Feedback.png)
+![Project Screenshot](https://github.com/ManoTeja4858/Blinkit-Sales-and-Operations-/blob/main/Sales.png)
 
 
 ## Datasets
