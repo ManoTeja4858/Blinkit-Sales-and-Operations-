@@ -71,7 +71,7 @@ Check out a sneak peek of the **dashboard** in action! 👇
 ## 📫 Connect with Me
 If you have questions or want to collaborate, reach out:
 
-- 💼 ![LinkedIn](http://www.linkedin.com/in/manoteja48)
+- 💼  ![LinkedIn](http://www.linkedin.com/in/manoteja48)
 - 📧 Email: manoteja4488@gmail.com
 
 ## S⭐ Like this project? Give it a **star**! 🌟
