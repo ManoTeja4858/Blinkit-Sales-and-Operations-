@@ -55,7 +55,8 @@ This project showcases a powerful **all-in-one dashboard** built for **Blinkit**
 ---
 
 
-## Live Demo
+## ✨ Live Demo
+Check out a sneak peek of the **dashboard** in action! 👇
 + [view Project on PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNWQ2ZDQ1OGMtNjRiZC00MTQxLWIzMmItM2QwYzQ4MzdiNTZjIiwidCI6IjlhMDQ2MGMyLTVhOGQtNDk1OS1iOWRmLWRjYzc4Mjk3ZGE2YyJ9)
 
 ![Project Screenshot](https://github.com/ManoTeja4858/Blinkit-Sales-and-Operations-/blob/main/Sales.png)
@@ -63,10 +64,6 @@ This project showcases a powerful **all-in-one dashboard** built for **Blinkit**
 
 ## Datasets
 + refer to Dataset.Zip.
-
-## ✨ Demo
-Check out a sneak peek of the **dashboard** in action! 👇
-
 
 ## 📫 Connect with Me
 If you have questions or want to collaborate, reach out:
