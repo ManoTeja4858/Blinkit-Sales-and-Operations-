@@ -62,7 +62,7 @@ This project showcases a powerful **all-in-one dashboard** built for **Blinkit**
 
 
 ## Datasets
-+ refer to Resources folder.
++ refer to Dataset.Zip.
 
 ## ✨ Demo
 Check out a sneak peek of the **dashboard** in action! 👇
