@@ -1,7 +1,6 @@
 # 🚀 E-commerce Dashboard for Sales Forecasting and Market Analysis  
 🎯 **Power BI | DAX | MySQL**
 
-![Dashboard GIF](https://via.placeholder.com/800x400?text=Insert+Dashboard+GIF+Here)
 
 ---
 
@@ -55,40 +54,27 @@ This project showcases a powerful **all-in-one dashboard** built for **Blinkit**
 
 ---
 
-## 🌍 How to Use the Dashboard  
-
-1. **Clone this repository**:  
-   ```bash
-   git clone https://github.com/your-repo/ecommerce-dashboard.git
-
-
-## Built with
-+ PowerBI
-
-## Technologies Used:
-Database: PostgreSQL, MySQL
-Data Analytics: Pandas, NumPy, Matplotlib
-Machine Learning: scikit-learn, TensorFlow (for forecasting models)
 
 ## Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/NutritionConsumptionAnalysis/NutritionDashboard)
++ [view Project Details on PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNWQ2ZDQ1OGMtNjRiZC00MTQxLWIzMmItM2QwYzQ4MzdiNTZjIiwidCI6IjlhMDQ2MGMyLTVhOGQtNDk1OS1iOWRmLWRjYzc4Mjk3ZGE2YyJ9)
 
-![Project Screenshot](https://raw.githubusercontent.com/ptyadana/Tableau-Nutrition-Analysis/master/dashboard_screenshot.png)
+![Project Screenshot]
 
 
 ## Datasets
 + refer to Resources folder.
 
-## For exploring the following questions and points.
-+ What are the calories per meal?
-+ What is calories consumption over period of times?
-+ What is the realtionship between calories and meal type (such as are we consuming too much calories for Dinner)?
-+ What are my most unhealthy food consumption?
-+ What is the calories for each food score?
-+ etc.
+✨ Demo
+Check out a sneak peek of the **dashboard** in action! 👇
 
-## Acknowledgements
-+ [Beautify your Data: Intro to Data Visualization using Tableau](https://www.skillshare.com/classes/Beautify-your-Data-Intro-to-Data-Visualization-using-Tableau/1547035247)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+📫 Connect with Me
+If you have questions or want to collaborate, reach out:
+
+💼 ![LinkedIn](http://www.linkedin.com/in/manoteja48)
+📧 Email: manoteja4488@gmail.com
+
+⭐ Like this project? Give it a **star**! 🌟
+Feel free to fork and contribute! Contributions are always welcome. 😊
+
+
