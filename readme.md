@@ -64,17 +64,17 @@ This project showcases a powerful **all-in-one dashboard** built for **Blinkit**
 ## Datasets
 + refer to Resources folder.
 
-✨ Demo
+## ✨ Demo
 Check out a sneak peek of the **dashboard** in action! 👇
 
 
-📫 Connect with Me
+## 📫 Connect with Me
 If you have questions or want to collaborate, reach out:
 
-💼 ![LinkedIn](http://www.linkedin.com/in/manoteja48)
-📧 Email: manoteja4488@gmail.com
+- 💼 ![LinkedIn](http://www.linkedin.com/in/manoteja48)
+- 📧 Email: manoteja4488@gmail.com
 
-⭐ Like this project? Give it a **star**! 🌟
+## S⭐ Like this project? Give it a **star**! 🌟
 Feel free to fork and contribute! Contributions are always welcome. 😊
 
 
